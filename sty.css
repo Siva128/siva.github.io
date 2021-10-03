@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #111;
+    background-color: #4b0082;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -71,7 +71,7 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background:#1a1a1a;
+    background:#ffa500;
     display: flex;
     align-items: center;
     justify-content: center;
